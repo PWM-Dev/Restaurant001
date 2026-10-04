@@ -5,3 +5,7 @@ node_modules/
 .env.*
 !.env.example
 artifacts/qa/
+apps/*/dist-realtime/
+.masaflow-realtime/
+playwright-report/
+test-results/
