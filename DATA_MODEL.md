@@ -1,4 +1,7 @@
-# MasaFlow cash data model
+# Legacy cash data model (v0.2)
+
+This document describes the preserved HTML/SSE runtime. For the active React/Socket.io suite, see [the v0.3 architecture](docs/REALTIME_ARCHITECTURE.md) and [typed contracts](shared/types/realtime.ts).
+
 
 The revised upfront cash specification governs this implementation. The [KPI reference](docs/KPI_DICTIONARY.md) contains the complete KPI dictionary, sources, filters, currencies, time windows and interpretation caveats.
 
